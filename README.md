@@ -17,6 +17,8 @@ The [Adult Traffic Board](https://traffonly.com/adult-traffic-board-en/) is the 
 ✅ Traffic from Twitter (X), Reddit, Instagram, TikTok, Bluesky, YouTube, and more  
 ✅ Services to grow your audience, increase revenue, and automate outreach
 
+This GitHub repository serves as a public, indexable directory of trusted traffic sources and tools for adult content creators.
+
 ---
 
 ### 🧠 Why Use This Board?
